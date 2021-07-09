@@ -1,2 +1,2 @@
-def authentication(username, password):
+def authentication(email, password):
     print("username")
